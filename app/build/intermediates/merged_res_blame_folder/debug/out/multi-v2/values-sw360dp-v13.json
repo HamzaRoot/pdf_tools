@@ -1,0 +1,45 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Codecanyon Demo\\advancepdftool\\Advance PDF App\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw360dp-v13\\values-sw360dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\4a\\.gradle\\caches\\transforms-3\\786101dd94d1853d1c849890a5c87f84\\transformed\\preference-1.0.0\\res\\values-sw360dp-v13\\values-sw360dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,127",
+                        "endColumns": "71,64",
+                        "endOffsets": "122,187"
+                    },
+                    "to": {
+                        "startLines": "2,5",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,266",
+                        "endColumns": "71,64",
+                        "endOffsets": "122,326"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\4a\\.gradle\\caches\\transforms-3\\f9f5a046e22868a69db2dc44c42f115c\\transformed\\jetified-color-picker-view-1.4.0\\res\\values-sw360dp\\values-sw360dp.xml",
+                    "from": {
+                        "startLines": "4,5,8",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "192,262,469",
+                        "endLines": "4,5,11",
+                        "endColumns": "69,68,12",
+                        "endOffsets": "257,326,652"
+                    },
+                    "to": {
+                        "startLines": "3,4,6",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "127,197,331",
+                        "endLines": "3,4,9",
+                        "endColumns": "69,68,12",
+                        "endOffsets": "192,261,514"
+                    }
+                }
+            ]
+        }
+    ]
+}
